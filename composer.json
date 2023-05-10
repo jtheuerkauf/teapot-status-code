@@ -1,5 +1,5 @@
 {
-  "name": "teapot/status-code",
+  "name": "jtheuerkauf/teapot-status-code",
   "type": "library",
   "description": "PHP HTTP Response Status code library",
   "keywords": [
@@ -15,6 +15,10 @@
     {
       "name": "Andreas Möller",
       "email": "am@localheinz.com"
+    },
+    {
+      "name": "Joe Theuerkauf",
+      "email": "joe@theuerkauf.dev"
     }
   ],
   "require": {
